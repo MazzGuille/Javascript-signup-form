@@ -3,7 +3,7 @@ const Lname = document.getElementById('LastName');
 const Email = document.getElementById('Email');
 const Password = document.getElementById('Password');
 const Form = document.getElementById('Form');
-const Error = document.getElementById('Error');
+//const Error = document.getElementById('Error');
 
 Form.addEventListener('submit', (e) => {
     e.preventDefault();
